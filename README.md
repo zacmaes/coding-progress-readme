@@ -8,6 +8,8 @@ Logging what I have worked on and learned daily.
   - read a little bit about let and const and var... kindof confusing
   - cubic-bezier function in css... need to learn more about this
   - finished applied visual design chapter in freecodecamp(11am-12:12pm)
+  - 12:45-1:00 worked on starry background css
+  - git committing
 
 ## April 24, 2021 - 8:00am - 1:30pm
   - solved a fizzbuzz problem in the console
