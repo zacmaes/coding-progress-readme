@@ -5,6 +5,12 @@ Logging what I have worked on and learned daily.
 ## April 27, 2021 - 10:00pm
   - started with daily coding problem
 
+  -----------Brainstorm of what I need to learn/review-----------
+    - foreach
+    - arrow functions
+    - async/await?
+    - 
+
 
 ## April 26, 2021 - NO CODING PRACTICE TODAY
 
