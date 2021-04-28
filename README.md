@@ -2,8 +2,8 @@
 Logging what I have worked on and learned daily.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-##April 27, 2021 - 10:00pm
-  -started with daily coding problem
+## April 27, 2021 - 10:00pm
+  - started with daily coding problem
 
 
 ## April 26, 2021 - NO CODING PRACTICE TODAY
