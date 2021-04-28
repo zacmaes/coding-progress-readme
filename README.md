@@ -3,7 +3,7 @@ Logging what I have worked on and learned daily.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## April 27, 2021 - 10:00pm
-  - started with daily coding problem
+  - started with daily coding problem, worked from 10 - 11:11, no working solution yet.
 
   -----------Brainstorm of what I need to learn/review-----------
     - foreach
