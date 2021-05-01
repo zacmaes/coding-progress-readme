@@ -2,6 +2,20 @@
 Logging what I have worked on and learned daily.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## April 30, 2021 - Evening
+  - Read some free code camp
+  - watched a ton of coding videos, but didn't actually write any code
+  - researched internships in florida to apply to
+
+## April 29, 2021 - Evening
+  - Finally solved the daily coding problem 2
+  - watched coding youtube videos
+
+## April 28, 2021 - Coded at work throughout(early release day)
+  - worked on solving daily coding problem
+  - was unsure of a solution
+
 ## April 27, 2021 - 10:00pm
   - started with daily coding problem, worked from 10 - 11:11, no working solution yet.
   - carreer research till 12am
