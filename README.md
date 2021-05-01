@@ -3,7 +3,7 @@ Logging what I have worked on and learned daily.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## May 1, 2021 - 10am-12pm
+## May 1, 2021 - 10am-12pm, 3:30-
   - Free code camp
       - Applied Accessability
       - Responsive Web Design Principles
