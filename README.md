@@ -2,8 +2,10 @@
 Logging what I have worked on and learned daily.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## May 1, 2021 - 10am-12pm, 3:30-
+## October 15, 2021 - all day
+  - It has been a while since I have made a significant amount of progress in my leaning. I have since sold my house in Florida, took a road trip with my wife across the country, and Moved into a new apartment in Seattle. Now is the time to get to work and get myself job ready. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## May 1, 2021 - 10am-12pm, afternoon
   - Free code camp
       - Applied Accessability
       - Responsive Web Design Principles
